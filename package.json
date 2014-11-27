@@ -1,0 +1,29 @@
+{
+  "name": "remoteErrorReporter",
+  "version": "0.1.0",
+  "description": "remote report sustem",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "'node app.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shenqihui/remoteErrorReporter.git"
+  },
+  "keywords": [
+    "debug",
+    "remote",
+    "javascript",
+    "error"
+  ],
+  "author": "shenqihui",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/shenqihui/remoteErrorReporter/issues"
+  },
+  "homepage": "https://github.com/shenqihui/remoteErrorReporter"
+}
