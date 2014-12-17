@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - 0.4
+  - 0.6
+before_script:
+  - before_command_1
+  - before_command_2
+after_script:
+  - after_command_1
+  - after_command_2
